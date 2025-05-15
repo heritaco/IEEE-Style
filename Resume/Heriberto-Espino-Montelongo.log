@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.3)  15 MAY 2025 05:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.3)  15 MAY 2025 05:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -272,14 +272,14 @@ Package hyperref Info: Link coloring OFF on input line 29.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
-* v-part:(T,H,B)=(42.67912pt, 738.34886pt, 13.942pt)
+* v-part:(T,H,B)=(28.45274pt, 752.57524pt, 13.942pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=472.03123pt
-* \textheight=738.34886pt
+* \textheight=752.57524pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-66.59087pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=9.0pt
@@ -325,22 +325,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--61
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--107
+Underfull \hbox (badness 10000) in paragraph at lines 105--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 109--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--115
+Underfull \hbox (badness 10000) in paragraph at lines 113--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--146
+Underfull \hbox (badness 10000) in paragraph at lines 141--147
 
  []
 
@@ -348,7 +348,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--146
 
 [1
 
-{C:/Users/herie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/herie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (Heriberto-Espino-Montelongo.aux)
+{C:/Users/herie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/herie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 225--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--283
+
+ []
+
+
+
+[2] (Heriberto-Espino-Montelongo.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
@@ -357,17 +384,17 @@ Package rerunfilecheck Info: File `Heriberto-Espino-Montelongo.out' has not chan
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11229 strings out of 469959
- 184493 string characters out of 5469835
- 683520 words of memory out of 5000000
+ 11231 strings out of 469959
+ 184505 string characters out of 5469835
+ 683516 words of memory out of 5000000
  37885 multiletter control sequences out of 15000+600000
- 640264 words of font info for 57 fonts, out of 8000000 for 9000
+ 641418 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,348b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,348b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/herie/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/herie/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Heriberto-Espino-Montelongo.pdf (1 page, 30155 bytes).
+Output written on Heriberto-Espino-Montelongo.pdf (2 pages, 37658 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
+ 34 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
